@@ -3,5 +3,7 @@
 	height: 50px;
 	position: relative;
 	background-color: red;
-	color: black;
+	color: white;
+	text-align: center;
+	font-size: 30px;
 }

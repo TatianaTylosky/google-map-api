@@ -15,6 +15,7 @@
     <div id="map-canvas"></div>
 
     <div class="ip_address">
+      <h1>TEST</h1>
       <?php echo "hello world!"; ?>
     </div>
   </body>
