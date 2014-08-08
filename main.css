@@ -7,3 +7,25 @@
 	text-align: center;
 	font-size: 30px;
 }
+
+.holder {
+		border: black 5px solid;
+		widows: auto;
+		height: auto;
+}
+
+#map-canvas {
+	height: 300px;
+	width: 300px;
+	position: relative;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
